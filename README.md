@@ -16,7 +16,7 @@ Go to [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) to fin
 
 2. Find this project folder in your downloads and move it to a secure place. You will return to this folder to manage your files and other assets like images, pdfs, etcetera. 
 
-3. Download and/or open a code editor. We recommend [Phoenix Code](https://phcode.dev) which runs on a browser or [download](https://phcode.io/#/home) a desktop version.
+3. Download and/or open a code editor. We recommend  [Visual Studio Code](https://code.visualstudio.com/download) (See download and setup instructions below).
 
 4. Use the code editor to open your project folder. Open index.html document. Read through the code comments embedded in the index.html document. Here, you'll find all the information you need to work with code! 
 
