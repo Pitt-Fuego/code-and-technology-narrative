@@ -9,7 +9,7 @@ This beginner template allows the you to mix and match code blocks should you wi
 Go to [Pitt Fuego](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/) to find more code-based tools and projects.<p>&nbsp;</p>
 
     
-##Get started!
+## Get started!
 
 
 1. Scroll to the top of this repository and click the green "**Code**" button. Select "**Download ZIP**" to download project files to your local computer. These are all the project files you'll need to get started working with code.
