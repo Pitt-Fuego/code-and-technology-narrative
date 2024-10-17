@@ -4,9 +4,9 @@ Hello students! This multimodal coding project is a great way for you to learn h
 
 By working through the prompts in the index.html file, you will construct your own multimodal project relating your code and technology narrative.  
 
-This beginner template allows the you to mix and match code blocks should you wish to further customize your work. It's a great introduction to code that will prepare you to use other [Open Fuego Coding Tools](https://github.com/open-fuego)
+This beginner template allows the you to mix and match code blocks should you wish to further customize your work. It's a great introduction to code that will prepare you to use other Pitt Fuego Coding Tools
 
-Go to [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) to find more code-based tools and projects.<p>&nbsp;</p>
+Go to [Pitt Fuego](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/) to find more code-based tools and projects.<p>&nbsp;</p>
 
     
 ##Get started!
@@ -31,7 +31,7 @@ Go to [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) to fin
 9. Test the URL in a browser. Magic, no? Actually, it's computer science.  
 
 
-Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/).<p>&nbsp;</p><p>&nbsp;</p>
+Check out our other cool coding tools at [Pitt Fuego](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/).<p>&nbsp;</p><p>&nbsp;</p>
 
 
 
